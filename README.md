@@ -7,7 +7,7 @@
 
   E-drone is a fully responsive drone website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="https://codewithsadee.github.io/realvine/"><strong>➥ Live Demo</strong></a>
+  <a href="https://endangsudrajat.github.io/e-dev/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
